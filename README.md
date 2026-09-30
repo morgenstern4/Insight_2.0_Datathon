@@ -193,7 +193,7 @@ Stated in full in §9 of the notebook; summarized here:
 
 ## License
 
-_Add your team's / institution's license here._
+
 
 ## Team
 
